@@ -21,12 +21,14 @@ BFS	Shortest path in unweighted grids
 DFS	Fast but not always shortest
 DLS	DFS with depth limit
 IDS	Combines BFS completeness with DFS memory
+
 **Part B:** Informed Search
 Algorithm	What it does
 Greedy	Fast but can be suboptimal
 A*	Optimal and efficient
 Weighted A*	Trade speed for optimality
 UCS	Optimal but blind
+
 **Heuristics used**: Manhattan, Euclidean, Zero
 
 **Key Findings**
